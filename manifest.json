@@ -1,7 +1,7 @@
 {
 "short_name": "Twitter",
 "name": "Twittor para heroes",
-"star_url":"index.html",
+"star_url":"/index.html",
 "background_color": "#3498db",
 "display":"standalone",
 "theme_color":"#3498db",
